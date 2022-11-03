@@ -1,0 +1,40 @@
+{
+  "pegawai": [
+    {
+      "nama": "Abdan Nafik Coba",
+      "usia": "30",
+      "jabatan": "Asman Papua Yan HC",
+      "id": 1
+    },
+    {
+      "nama": "Benny Adhetya",
+      "usia": "33",
+      "jabatan": "Manager Sistem Informasi HC",
+      "id": 2
+    },
+    {
+      "nama": "Dimmas Aldho",
+      "usia": "30",
+      "jabatan": "Asman Yan HC Aceh",
+      "id": 3
+    },
+    {
+      "nama": "Yemi Tri Murni",
+      "usia": "33",
+      "jabatan": "Officer HST",
+      "id": 4
+    },
+    {
+      "nama": "Yoga Ardata",
+      "usia": "25",
+      "jabatan": "Sistem Sertifikasi",
+      "id": 5
+    },
+    {
+      "nama": "Yusuf Eko Dono",
+      "usia": "26",
+      "jabatan": "Officer Kinerja",
+      "id": 6
+    }
+  ]
+}
